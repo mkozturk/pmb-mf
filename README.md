@@ -1,2 +1,2 @@
 # pmb-mf
-Code and manuscript describing the Preconditioned Model Building algorithm applied to matrix factorization
+Code and experiments related to the Preconditioned Model Building algorithm applied to matrix factorization.

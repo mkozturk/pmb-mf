@@ -1,0 +1,7 @@
+https://ccpforge.cse.rl.ac.uk/gf/project/cutest/wiki/
+
+Galahad
+https://github.com/citibeth/icebin/wiki/Installation#GALAHAD_Installation
+
+SIF
+http://www.numerical.rl.ac.uk/lancelot/sif/sifhtml.html
